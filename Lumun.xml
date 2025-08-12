@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Lumun Games" Logo="" Description="Private Server Mods">
+		<Server Name="Lumun Community Server 2025" Logo="">
+			<Description>
+Join Lumun on her server, hosted by The Duckie Network. Community Server 2025
+
+      </Description>
+			<Version>Latest</Version>
+			<RSS/>
+			<ReleaseNotes/>
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+				<Download>https://github.com/SphereII/LumunCommunityServer-2025/releases</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
